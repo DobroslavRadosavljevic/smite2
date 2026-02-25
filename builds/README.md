@@ -11,6 +11,11 @@ Each package includes research notes, confidence levels, and practical swap logi
 
 - [Thanatos](./thanatos/README.md)
 - [Anubis](./anubis/README.md)
+- [Discordia](./discordia/README.md)
+- [Athena](./athena/README.md)
+- [Sol](./sol/README.md)
+- [Kukulkan](./kukulkan/README.md)
+- [Medusa](./medusa/README.md)
 
 ## Research Notes 🔎🧪
 

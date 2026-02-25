@@ -16,6 +16,11 @@ This project is organized for fast lookup, practical in-game use, and patch-awar
 
 - **Thanatos** ☠️
 - **Anubis** 🐺
+- **Discordia** 😈
+- **Athena** 🛡️
+- **Sol** ☀️
+- **Kukulkan** 🐉
+- **Medusa** 🐍
 
 ## Repository Structure 🗂️
 
@@ -29,7 +34,37 @@ This project is organized for fast lookup, practical in-game use, and patch-awar
 │   │   ├── 97-important-links-and-apis.md
 │   │   ├── 98-evidence-and-confidence.md
 │   │   └── 99-core-mechanics-skill-order-and-combos.md
-│   └── anubis/
+│   ├── anubis/
+│   │   ├── conquest/
+│   │   ├── arena/
+│   │   ├── 97-important-links-and-apis.md
+│   │   ├── 98-evidence-and-confidence.md
+│   │   └── 99-core-mechanics-skill-order-and-combos.md
+│   ├── discordia/
+│   │   ├── conquest/
+│   │   ├── arena/
+│   │   ├── 97-important-links-and-apis.md
+│   │   ├── 98-evidence-and-confidence.md
+│   │   └── 99-core-mechanics-skill-order-and-combos.md
+│   ├── athena/
+│   │   ├── conquest/
+│   │   ├── arena/
+│   │   ├── 97-important-links-and-apis.md
+│   │   ├── 98-evidence-and-confidence.md
+│   │   └── 99-core-mechanics-skill-order-and-combos.md
+│   ├── sol/
+│   │   ├── conquest/
+│   │   ├── arena/
+│   │   ├── 97-important-links-and-apis.md
+│   │   ├── 98-evidence-and-confidence.md
+│   │   └── 99-core-mechanics-skill-order-and-combos.md
+│   ├── kukulkan/
+│   │   ├── conquest/
+│   │   ├── arena/
+│   │   ├── 97-important-links-and-apis.md
+│   │   ├── 98-evidence-and-confidence.md
+│   │   └── 99-core-mechanics-skill-order-and-combos.md
+│   └── medusa/
 │       ├── conquest/
 │       ├── arena/
 │       ├── 97-important-links-and-apis.md
@@ -37,7 +72,9 @@ This project is organized for fast lookup, practical in-game use, and patch-awar
 │       └── 99-core-mechanics-skill-order-and-combos.md
 └── research/
     ├── thanatos-ob29/
-    └── anubis-ob29/
+    ├── anubis-ob29/
+    ├── ob29-cross-god-expansion-notes.md
+    └── agent-24-source-and-confidence-log.md
 ```
 
 ## Quick Navigation ⚡
@@ -45,6 +82,11 @@ This project is organized for fast lookup, practical in-game use, and patch-awar
 - Build library index: [`builds/README.md`](./builds/README.md)
 - Thanatos hub: [`builds/thanatos/README.md`](./builds/thanatos/README.md)
 - Anubis hub: [`builds/anubis/README.md`](./builds/anubis/README.md)
+- Discordia hub: [`builds/discordia/README.md`](./builds/discordia/README.md)
+- Athena hub: [`builds/athena/README.md`](./builds/athena/README.md)
+- Sol hub: [`builds/sol/README.md`](./builds/sol/README.md)
+- Kukulkan hub: [`builds/kukulkan/README.md`](./builds/kukulkan/README.md)
+- Medusa hub: [`builds/medusa/README.md`](./builds/medusa/README.md)
 
 ## Patch Context 🧪
 
